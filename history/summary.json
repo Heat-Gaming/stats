@@ -4,53 +4,59 @@
     "url": "https://sv1.heatgaming.net",
     "icon": "https://cdn.heatgaming.net/icons/snails/sv1.ico",
     "slug": "server-1-roleplay",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 525,
     "timeDay": 525,
     "timeWeek": 525,
     "timeMonth": 525,
     "timeYear": 525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-26": 0
+    }
   },
   {
     "name": "Server 2 | Drift/Freeroam",
     "url": "https://sv2.heatgaming.net",
     "icon": "https://cdn.heatgaming.net/icons/snails/sv2.ico",
     "slug": "server-2-drift-freeroam",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 315,
     "timeDay": 315,
     "timeWeek": 315,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-26": 0
+    }
   },
   {
     "name": "Server 1 | Miscellaneous",
     "url": "https://sv3.heatgaming.net",
     "icon": "https://cdn.heatgaming.net/icons/snails/sv3.ico",
     "slug": "server-1-miscellaneous",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 305,
     "timeDay": 305,
     "timeWeek": 305,
     "timeMonth": 305,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-26": 0
+    }
   }
 ]
