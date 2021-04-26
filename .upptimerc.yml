@@ -15,7 +15,8 @@ sites:
 
 status-website:
   cname: stats.heatgaming.net
-  logoUrl: https://cdn.heatgaming.net/logos/logo_transparent-borderless.ico
+  logoUrl: https://cdn.heatgaming.net/logos/logo_transparent-borderless.png
+  theme: dark
   name: Heat Gaming
   introTitle: "**Heat Gaming Network**"
   introMessage: 
