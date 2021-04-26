@@ -15,7 +15,7 @@ sites:
 
 status-website:
   cname: stats.heatgaming.net
-  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/static/img/icon.svg
+  logoUrl: https://cdn.heatgaming.net/logos/logo_transparent-borderless.ico
   name: Heat Gaming
   introTitle: "**Heat Gaming Network**"
   introMessage: 
