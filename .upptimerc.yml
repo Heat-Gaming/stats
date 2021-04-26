@@ -1,6 +1,6 @@
 # Change these first
-owner: Heat-Gaming # Your GitHub organization or username, where this repository lives
-repo: stats # The name of this repository
+owner: Heat-Gaming
+repo: stats
 
 sites:
   - name: Google
@@ -13,11 +13,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: stats.heatgaming.net
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/static/img/icon.svg
   name: Heat Gaming
   introTitle: "**Heat Gaming Network**"
   introMessage: 
@@ -25,7 +22,7 @@ status-website:
     - title: Status
       href: /
     - title: Discord
-      href: https://github.com/$OWNER/$REPO
+      href: https://discord.gg/de3sXsX
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
