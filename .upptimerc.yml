@@ -16,7 +16,8 @@ sites:
 status-website:
   cname: stats.heatgaming.net
   logoUrl: https://cdn.heatgaming.net/logos/logo_transparent-borderless.png
-  theme: dark
+  # themes: light, dark, night, or ocean.
+  theme: night
   name: Heat Gaming
   introTitle: "**Heat Gaming Network**"
   introMessage: 
