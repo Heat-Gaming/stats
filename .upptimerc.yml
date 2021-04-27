@@ -16,6 +16,7 @@ sites:
 status-website:
   cname: stats.heatgaming.net
   logoUrl: https://cdn.heatgaming.net/logos/logo_transparent-borderless.png
+  favicon: https://cdn.heatgaming.net/logos/logo_transparent-borderless.png
   # themes: light, dark, night, or ocean.
   theme: night
   name: Heat Gaming
