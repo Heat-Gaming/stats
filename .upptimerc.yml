@@ -33,27 +33,5 @@ status-website:
       content: "Heat Gaming Network Status"
     - name: "description"
       content: "View The status of any server/services, as well as incident reports and updates, with live metrics straight from the servers."
-    # Open Graph / Facebook 
-    - property: "og:type"
-      content: "website"
-    - property: "og:url"
-      content: "https://stats.heatgaming.net/"
-    - property: "og:title"
-      content: "Heat Gaming Network Status"
-    - property: "og:description"
-      content: "View The status of any server/services, as well as incident reports and updates, with live metrics straight from the servers."
-    - property: "og:image"
-      content: "https://cdn.heatgaming.net/logos/logo_transparent-borderless.png"
-    # Twitter
-    - property: "twitter:card"
-      content: "summary_large_image"
-    - property: "twitter:url"
-      content: "https://stats.heatgaming.net/"
-    - property: "twitter:title"
-      content: "Heat Gaming Network Status"
-    - property: "twitter:description"
-      content: "View The status of any server/services, as well as incident reports and updates, with live metrics straight from the servers."
-    - property: "twitter:image"
-      content: "https://cdn.heatgaming.net/logos/logo_transparent-borderless.png"
 
 # https://upptime.js.org/docs/configuration
