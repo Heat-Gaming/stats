@@ -33,5 +33,7 @@ status-website:
       content: "Heat Gaming Network Status"
     - name: "description"
       content: "View The status of any server/services, as well as incident reports and updates, with live metrics straight from the servers."
+    - name: "theme-color"
+      content: "#9e33c1"
 
 # https://upptime.js.org/docs/configuration
