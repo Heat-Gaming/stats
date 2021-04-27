@@ -9,7 +9,7 @@ sites:
   - name: Server 2 | Drift/Freeroam
     url: https://sv2.heatgaming.net
     icon: https://cdn.heatgaming.net/icons/snails/sv2.ico
-  - name: Server 1 | Miscellaneous 
+  - name: Server 3 | Miscellaneous 
     url: https://sv3.heatgaming.net
     icon: https://cdn.heatgaming.net/icons/snails/sv3.ico
 
