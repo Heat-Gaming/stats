@@ -35,5 +35,5 @@ status-website:
       content: "View The status of any server/services, as well as incident reports and updates, with live metrics straight from the servers."
     - name: "theme-color"
       content: "#9e33c1"
-  customHeadHtml: "<meta property="og:image" content="https://cdn.heatgaming.net/logos/logo_transparent-borderless.png"><meta property="twitter:image" content="https://cdn.heatgaming.net/logos/logo_transparent-borderless.png">"
+
 # https://upptime.js.org/docs/configuration
