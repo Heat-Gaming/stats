@@ -4,10 +4,10 @@
     "url": "https://sv1.heatgaming.net",
     "icon": "https://cdn.heatgaming.net/icons/snails/sv1.ico",
     "slug": "server-1-roleplay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 616,
@@ -16,6 +16,7 @@
     "timeMonth": 641,
     "timeYear": 616,
     "dailyMinutesDown": {
+      "2021-06-19": 1,
       "2021-04-26": 43
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://sv2.heatgaming.net",
     "icon": "https://cdn.heatgaming.net/icons/snails/sv2.ico",
     "slug": "server-2-drift-freeroam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 270,
@@ -36,6 +37,7 @@
     "timeMonth": 268,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2021-06-19": 1,
       "2021-04-26": 43
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://sv3.heatgaming.net",
     "icon": "https://cdn.heatgaming.net/icons/snails/sv3.ico",
     "slug": "server-3-miscellaneous",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +57,8 @@
     "timeWeek": 325,
     "timeMonth": 285,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-19": 0
+    }
   }
 ]
