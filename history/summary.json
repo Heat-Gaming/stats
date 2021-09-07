@@ -4,7 +4,7 @@
     "url": "https://sv1.heatgaming.net",
     "icon": "https://cdn.heatgaming.net/icons/snails/sv1.ico",
     "slug": "server-1-roleplay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 511,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2021-09-07": 0,
       "2021-09-02": 5,
       "2021-09-01": 19,
       "2021-07-22": 5,
